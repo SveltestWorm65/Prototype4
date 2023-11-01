@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    private float spawnRange = 9;
+    private float spawnRange = 9.0f;
     public GameObject enemyPrefab;
     
     // Start is called before the first frame update
